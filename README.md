@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=timontuitoek&label=Profile%20views&color=0e75b6&style=flat" alt="timontuitoek" /> </p>
 
-- 🔭 I’m currently working on **Airbnb**
+- 🔭 I’m currently working on **Backend development**
 
 - 💬 Ask me about **C, Python**
 
