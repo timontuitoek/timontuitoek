@@ -5,8 +5,6 @@
 
 - 🔭 I’m currently working on **Backend development**
 
-- 💬 Ask me about **C, Python**
-
 - 📫 How to reach me **tuitoektimon@gmail.com**
 
 
